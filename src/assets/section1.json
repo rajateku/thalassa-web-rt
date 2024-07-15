@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Blue Card Essentials",
+        "description" : "Info for the bluecard holders",
+        "image" : "https://static.wixstatic.com/media/0d8515_00d6688a793f4a4f8838281b7b968e74~mv2.jpg/v1/fit/w_750,h_564,al_c,q_20/file.jpg",
+        "link" : "/bluecard"
+
+    },
+    {
+        "title": "Useful Links",
+        "description" : "Important links for your stay",
+        "image" : "http://www.kirmespower.de/linkslogos.jpg",
+        "link" : "/usefullinks"
+    },
+    {
+        "title": "FAQs",
+        "description" : "Frequently encountered issues and solutions",
+        "image" : "https://t3.ftcdn.net/jpg/01/33/42/02/360_F_133420289_pIJRVn5nsFrCUi0wDzh8pDHoZTWtBvXq.jpg",
+        "link" : "/faqs"
+    }
+]

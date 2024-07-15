@@ -1,0 +1,43 @@
+[
+    {
+        "data": {
+            "name": "Phani",
+            "role": "Still Photographer",
+            "photoURL": "https://nettv4u.com/imagine/28-01-2022/phani-vihari-gantala.jpg",
+            "publicprofile": "https://telfylm.web.app/"
+        }
+    },
+    {
+        "data": {
+            "name": "Ganesh",
+            "role" : "Script Writer",
+            "photoURL" : "https://pbs.twimg.com/profile_images/1523470735402012672/_ZkC81j5_400x400.jpg",
+            "publicprofile" : "https://telfylm.web.app/"
+    
+        }
+    },
+    {
+        "data": {
+            "name": "Sanjana",
+            "role" : "Actress",
+            "photoURL" : "https://nettv4u.com/imagine/05-04-2022/roja-bharathi.jpg",
+            "publicprofile" : "https://telfylm.web.app/"
+        }
+    },
+    {
+        "data": {
+            "name": "Vikas",
+            "role" : "Lyric Writer",
+            "photoURL" : "https://cdn.telugustop.com/wp-content/uploads/2022/03/ktaka-govt-to-seek-actor-activist-chetans-deportation-move-likely-to-be-opposed-latest-eng-news-1448409.jpg",
+            "publicprofile" : "https://telfylm.web.app/"
+        }
+    },
+    {
+        "data": {
+            "name": "Anudeep",
+            "role" : "Musician",
+            "photoURL" : "https://pbs.twimg.com/profile_images/1401541103950594057/cX3D2FAJ_400x400.jpg",
+            "publicprofile" : "https://telfylm.web.app/"
+        }    
+    }
+]

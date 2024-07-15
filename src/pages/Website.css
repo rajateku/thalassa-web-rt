@@ -1,0 +1,59 @@
+.website-section-heading{
+text-align: center;
+color: #213c54;
+margin: 10%;
+}
+
+
+.section1-grid{
+    padding-inline: 20%;
+}
+
+.grid-card{
+    padding: 1%;
+    height: 20%;
+}
+
+.see-more{
+
+    background-color: #D33C3C;
+    text-align: center;
+    margin: 0%;
+    border:#D33C3C ;
+    border-radius: 0.8em;
+    padding: 0.3em;
+    padding-inline: 0.8em;
+    
+    font-family: "Raleway",sans-serif;
+    /* font-size: 20px; */
+    font-weight: 600;
+    /* letter-spacing: 1px; */
+    /* line-height: 28px; */
+    
+    
+    text-transform: uppercase;
+    transition: all 1.5s ease 0s;
+    display: inline-block;
+
+    color: white;
+
+    /* margin-top: 30px; */
+
+
+}
+.page-footer{
+    margin-top: 20%;
+    background-color: #213c54;
+    color: white;
+}
+
+/* a:hover {
+    background-color: yellow;
+  } */
+.page-footer li{
+    color: white;
+}
+
+.page-footer li a{
+    color: white;
+}

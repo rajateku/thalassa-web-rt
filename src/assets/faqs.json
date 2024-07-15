@@ -1,0 +1,41 @@
+[
+    {
+        "q": "Q: Is it hard to find an apartment in Germany?",
+        "a" : "A: Yes, it's relatively hard to find an apartment, some what easier to find a room in shared house or apartment."
+
+    },
+    {
+        "q": "Q: What are the accomodation options?",
+        "a" : "A: You can find them on Links section in this website"
+    },
+    {
+        "q": "Q: How are the rental costs?",
+        "a" : "A: In cities it can vary from 600 Euro to 1500 Eruo depending on requirements"
+    },
+    {
+        "q": "Q: Where to shop for home essentials?",
+        "a" : "A: EuroShop, Woolworth, Tedi, Kik"
+
+    },
+    {
+        "q": "Q: How to do city registration?",
+        "a" : "A: You have to book an appointment in the city office and attend the appointment with your documents"
+    },
+    {
+        "q": "Q: Which sim cards are better?",
+        "a" : "A: Aldi Talk, Lebara"
+    },
+    {
+        "q": "Q: Can I drive in Germany with India License?",
+        "a" : "A: No"
+    },
+    {
+        "q": "Q: Do I need to take an agreement from Landlord?",
+        "a" : "A: Yes. For all legal purposes it is a must"
+    },
+    {
+        "q": "Tip: About Water",
+        "a" : "A: You can drink tap of water in the kitchen, bathroom etc, it's absolutely fine"
+    }
+
+]

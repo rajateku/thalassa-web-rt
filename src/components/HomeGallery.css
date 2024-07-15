@@ -1,0 +1,22 @@
+
+
+.filtercontainer{
+    width: fit-content;
+    float: right;
+    /* padding-right: 5%; */
+    margin-top: 1%;
+    margin-bottom: 1%;
+    /* margin-right: 3%; */
+
+}
+
+.galleryFilter {
+    /* background-color: #3995b9; */
+    /* color: bal; */
+    /* margin-top: 1em; */
+    padding:3em;
+    /* font-size: xx-large; */
+    /* border-color: #3995b9; */
+    /* width: "20%"; */
+    
+}
